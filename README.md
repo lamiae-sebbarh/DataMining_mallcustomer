@@ -9,7 +9,7 @@ o DBSCAN</br>
 Travail à faire : Utiliser les trois algorithmes sur la dataset concernant des consommateurs
 Mall_Customers.csv</br>
 
-<h2>Quelque resultats:</h2></br>
+<h2>Quelque resultats:
 
 
 ![image](https://user-images.githubusercontent.com/58346874/100936735-476d2f80-34f2-11eb-97da-2a878c29a60e.png)</br>
