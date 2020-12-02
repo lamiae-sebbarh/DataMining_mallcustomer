@@ -27,3 +27,5 @@ Mall_Customers.csv</br>
 ![image](https://user-images.githubusercontent.com/58346874/100936842-68358500-34f2-11eb-9e4b-3667f7c62c2b.png)
 #K-means
 ![image](https://user-images.githubusercontent.com/58346874/100936850-6b307580-34f2-11eb-9655-cde79f2d07ac.png)
+
+https://github.com/lamiae-sebbarh/DataMining_mallcustomer/issues/1#issue-755642680
