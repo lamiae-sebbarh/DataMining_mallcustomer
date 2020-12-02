@@ -11,7 +11,7 @@ Mall_Customers.csv</br>
 
 <h2>Quelque resultats:</h2></br>
 #3D view of K-Means 4 clusters</br>
-![image](https://user-images.githubusercontent.com/58346874/100936735-476d2f80-34f2-11eb-97da-2a878c29a60e.png)</br>
+![image](https://user-images.githubusercontent.com/58346874/100936735-476d2f80-34f2-11eb-97da-2a878c29a60e.png)
 #CAH
 ![image](https://user-images.githubusercontent.com/58346874/100936746-4b994d00-34f2-11eb-9651-0e50b479cf4c.png)</br>
 #CAH
@@ -24,6 +24,6 @@ Mall_Customers.csv</br>
 #make_circles
 ![image](https://user-images.githubusercontent.com/58346874/100936831-6370d100-34f2-11eb-93b2-0f490df04554.png)</br>
 #make_moons
-![image](https://user-images.githubusercontent.com/58346874/100936842-68358500-34f2-11eb-9e4b-3667f7c62c2b.png)</br>
+![image](https://user-images.githubusercontent.com/58346874/100936842-68358500-34f2-11eb-9e4b-3667f7c62c2b.png)
 #K-means
 ![image](https://user-images.githubusercontent.com/58346874/100936850-6b307580-34f2-11eb-9655-cde79f2d07ac.png)
