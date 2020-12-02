@@ -10,22 +10,15 @@ Travail à faire : Utiliser les trois algorithmes sur la dataset concernant des 
 Mall_Customers.csv</br>
 
 <h2>Quelque resultats:</h2></br>
-#3D view of K-Means 4 clusters</br>
-![image](https://user-images.githubusercontent.com/58346874/100936735-476d2f80-34f2-11eb-97da-2a878c29a60e.png)
-#CAH
-![image](https://user-images.githubusercontent.com/58346874/100936746-4b994d00-34f2-11eb-9651-0e50b479cf4c.png)</br>
-#CAH
-![image](https://user-images.githubusercontent.com/58346874/100936756-4dfba700-34f2-11eb-9da5-2b530eba4dbf.png)</br>
-#DBSCAN_clustered
-![image](https://user-images.githubusercontent.com/58346874/100936769-50f69780-34f2-11eb-8f76-b49f90bb8627.png)</br>
-#Silhouette score
-![image](https://user-images.githubusercontent.com/58346874/100936785-5522b500-34f2-11eb-9544-e4fa414fd8eb.png)</br>
 
-#make_circles
-![image](https://user-images.githubusercontent.com/58346874/100936831-6370d100-34f2-11eb-93b2-0f490df04554.png)</br>
-#make_moons
+
+![image](https://user-images.githubusercontent.com/58346874/100936735-476d2f80-34f2-11eb-97da-2a878c29a60e.png)</br>
+
+![image](https://user-images.githubusercontent.com/58346874/100936746-4b994d00-34f2-11eb-9651-0e50b479cf4c.png)
+![image](https://user-images.githubusercontent.com/58346874/100936756-4dfba700-34f2-11eb-9da5-2b530eba4dbf.png)
+![image](https://user-images.githubusercontent.com/58346874/100936769-50f69780-34f2-11eb-8f76-b49f90bb8627.png)
+![image](https://user-images.githubusercontent.com/58346874/100936785-5522b500-34f2-11eb-9544-e4fa414fd8eb.png)
+![image](https://user-images.githubusercontent.com/58346874/100936818-5fdd4a00-34f2-11eb-9931-60916d9848e7.png)
+![image](https://user-images.githubusercontent.com/58346874/100936831-6370d100-34f2-11eb-93b2-0f490df04554.png)
 ![image](https://user-images.githubusercontent.com/58346874/100936842-68358500-34f2-11eb-9e4b-3667f7c62c2b.png)
-#K-means
 ![image](https://user-images.githubusercontent.com/58346874/100936850-6b307580-34f2-11eb-9655-cde79f2d07ac.png)
-
-https://github.com/lamiae-sebbarh/DataMining_mallcustomer/issues/1#issue-755642680
